@@ -62,4 +62,4 @@ Python, pandas, NumPy, scikit-learn (HistGradientBoosting, LogisticRegression, T
 ## Файлы
 - `smart_home_lighting.ipynb` — ноутбук с кодом и результатами
 - `report.pdf` — статья по первой версии проекта (исходная постановка)
-- `images/` — графики для README
+- - *.png — графики для README
